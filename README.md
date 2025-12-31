@@ -35,11 +35,6 @@ Program Studi **Teknik Informatika — Universitas Sam Ratulangi**.
 - Mengelola kategori & metadata buku  
 - Melihat daftar koleksi terpublikasi  
 
-### 🛡️ Administrator
-- Manajemen pengguna & peran  
-- Validasi akses sistem  
-- Pengelolaan koleksi buku digital  
-
 > Perancangan sistem mengacu pada dokumen SRS: Use Case, Logical View, Process View, ERD, Development View, dan Physical View.
 
 ---
